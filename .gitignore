@@ -4,3 +4,4 @@ venv/
 __pycache__
 extratos/planilhaExtrato.xls
 finances.csv
+test.ipynb
